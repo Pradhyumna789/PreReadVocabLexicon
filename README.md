@@ -15,6 +15,7 @@ Extract rare/difficult vocabulary from a novel and optionally fetch dictionary d
 - `define_words.py`: fetches definitions and generates `difficult_words_with_defs.csv`.
 - `NGSL_1.2_stats.csv`: NGSL list used to remove common words.
 - `Word_results_*.txt`: your AntConc exports (one or many) with columns like `Headword` and `Freq`.
+-  I also included the book's pdf slaughter house five
 
 ---
 
