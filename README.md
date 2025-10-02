@@ -18,7 +18,7 @@ Extract rare/difficult vocabulary from a novel and optionally fetch dictionary d
 -  I also included the book's pdf slaughter house five
 -  git clone this project first before proceeding with the following steps
 -  Word_results_1.txt and Word_results_2.txt are the files generated using AntConc for the book
--  You can do this any book you want
+-  You can do this any pdf you want
 
 ---
 
