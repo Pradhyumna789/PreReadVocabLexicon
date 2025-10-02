@@ -119,8 +119,19 @@ Notes:
 # 1) Generate difficult words from multiple exports
 python3 /home/shocker/Desktop/word.py
 
+
+![photo_2025-10-03_01-52-31](https://github.com/user-attachments/assets/324267d3-8576-401e-a63b-5ddd28f6fee7)
+
+
+<img width="1426" height="810" alt="Screenshot from 2025-10-03 01-51-44" src="https://github.com/user-attachments/assets/8fb29ff1-6630-42f8-a16a-d163c41c6de0" />
+
+
 # 2) Fetch first 100 definitions (test)
 python3 /home/shocker/Desktop/define_words.py --limit 100
+
+
+https://github.com/user-attachments/assets/1ee70ccd-1c6f-497a-983c-35aa6d52b002
+
 
 # 3) Fetch the rest later (resume-safe)
 python3 /home/shocker/Desktop/define_words.py
