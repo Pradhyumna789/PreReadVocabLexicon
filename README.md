@@ -116,6 +116,11 @@ Notes:
 
 ## Example session
 
+### Upload a pdf file of your book => File => Open File 
+### Select Word and click on start
+<img width="1352" height="804" alt="image" src="https://github.com/user-attachments/assets/e352f15d-9de5-4367-956c-1447e400f143" />
+
+
 ![photo_2025-10-03_01-52-31](https://github.com/user-attachments/assets/324267d3-8576-401e-a63b-5ddd28f6fee7)
 
 
@@ -137,8 +142,3 @@ python3 /home/shocker/Desktop/define_words.py
 ```
 
 ---
-
-## License
-This project uses dictionary meanings retrieved from the free `dictionaryapi.dev` service. Review their terms if redistributing results.
-
-
